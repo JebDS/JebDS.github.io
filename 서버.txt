@@ -1,0 +1,18 @@
+쉬프트+우클릭--> 파워쉘
+\Users\SAMSUNG\OneDrive\바탕 화면\지은\코딩\github-blog\JebDS.github.io>에서
+
+bundle exec jekyll serve
+
+if error
+package.json를 복사해서 _site에 붙여넣기
+(강종 할 때마다 삭제되는듯. 할 때마다 다시 붙여넣기 ㄱㄱ)
+
+if config 수정
+강종 한 번 했다가 다시 실행해야
+
+http://localhost:4000/
+
+
+=====
+공식 홈페이지
+https://mmistakes.github.io/minimal-mistakes/docs/configuration/
