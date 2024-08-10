@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "jieun"
-  avatar           : "images/스크린샷 2024-08-04 164656.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/haha.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "정리용 / 사막화 멈춰"
   #location         : "Somewhere"
   #email            : "jeb424ds@gmail.com"
